@@ -1,6 +1,6 @@
 # __Enigma__
 
-Brian: Starter repository for the CSD week 4 laboratory exercise
+Brian 2: Starter repository for the CSD week 4 laboratory exercise
 
 ## __Challenge brief__
 During World War II, the Germans developed an Enigma machine to encrypt and decrypt their communications. The device used an electromechanical rotor mechanism that scrambled the 26 letters of the alphabet. The machine worked by scrambling each letter in a message e.g. ‘A’ by mapping it to another letter e.g., ‘K’. Typically, each message was encrypted several times using a series of electromagnetic rotors that mapped each alphabetic character to another pre-defined character, ‘A’ to ‘K’, ‘B’ to ‘Q’ and so forth.  
