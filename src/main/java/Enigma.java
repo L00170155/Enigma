@@ -16,8 +16,7 @@ public final class Enigma {
 
     return "Implement the encrypt method";
   }
-
-
+  
   public static String decrypt(String message, int incrementNumber, List<String> rotors) {
     // TODO - Implement the Decrypt method
 
