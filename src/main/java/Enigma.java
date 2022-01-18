@@ -19,7 +19,6 @@ public final class Enigma {
   
   public static String decrypt(String message, int incrementNumber, List<String> rotors) {
     // TODO - Implement the Decrypt method
-
     // Steps in brief
     // 1. For each rotor in the list rotors, starting with the last rotor
     //  1.1 Translate the message using the rotor
